@@ -349,9 +349,6 @@
 [submodule "github.com/slimtoolkit/daggerverse/slim"]
 	path = github.com/slimtoolkit/daggerverse/slim
 	url = https://github.com/slimtoolkit/daggerverse
-[submodule "github.com/slimtoolkit/daggerverse/slim-with-docker"]
-	path = github.com/slimtoolkit/daggerverse/slim-with-docker
-	url = https://github.com/slimtoolkit/daggerverse
 [submodule "github.com/aweris/gale/daggerverse/repo"]
 	path = github.com/aweris/gale/daggerverse/repo
 	url = https://github.com/aweris/gale
