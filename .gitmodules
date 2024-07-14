@@ -592,3 +592,291 @@
 [submodule "github.com/chainloop-dev/chainloop/extras/dagger"]
 	path = github.com/chainloop-dev/chainloop/extras/dagger
 	url = https://github.com/chainloop-dev/chainloop
+[submodule "daggerverse"]
+	path = daggerverse
+	url = https://github.com/shykes/daggerverse
+[submodule "dagger"]
+	path = dagger
+	url = https://github.com/dagger/dagger
+[submodule "dagger-apache-avro-tools"]
+	path = dagger-apache-avro-tools
+	url = https://github.com/pjmagee/dagger-apache-avro-tools
+[submodule "dagger-module-vault-kv"]
+	path = dagger-module-vault-kv
+	url = https://github.com/puzzle/dagger-module-vault-kv
+[submodule "dagger-modules"]
+	path = dagger-modules
+	url = https://github.com/kpenfound/dagger-modules
+[submodule "shykes-daggerverse"]
+	path = shykes-daggerverse
+	url = https://github.com/jedevc/shykes-daggerverse
+[submodule "chainloop"]
+	path = chainloop
+	url = https://github.com/chainloop-dev/chainloop
+[submodule "openmeter"]
+	path = openmeter
+	url = https://github.com/csatib02/openmeter
+[submodule "rust-pipeline"]
+	path = rust-pipeline
+	url = https://github.com/fluent-ci-templates/rust-pipeline
+[submodule "deno-pipeline"]
+	path = deno-pipeline
+	url = https://github.com/fluent-ci-templates/deno-pipeline
+[submodule "kaggle-dagger"]
+	path = kaggle-dagger
+	url = https://github.com/dciangot/kaggle-dagger
+[submodule "gcp-for-dagger"]
+	path = gcp-for-dagger
+	url = https://github.com/jpadams/gcp-for-dagger
+[submodule "client_golang"]
+	path = client_golang
+	url = https://github.com/prometheus/client_golang
+[submodule "dagger-heroes-decode"]
+	path = dagger-heroes-decode
+	url = https://github.com/pjmagee/dagger-heroes-decode
+[submodule "publish-test"]
+	path = publish-test
+	url = https://github.com/matipan/publish-test
+[submodule "go-dagger-ci"]
+	path = go-dagger-ci
+	url = https://github.com/mycroft/go-dagger-ci
+[submodule "demo1"]
+	path = demo1
+	url = https://github.com/Prashant-Bhapkar/demo1
+[submodule "financialadvisor"]
+	path = financialadvisor
+	url = https://github.com/EmmS21/financialadvisor
+[submodule "sec-scan"]
+	path = sec-scan
+	url = https://github.com/msthtrifork/sec-scan
+[submodule "demo"]
+	path = demo
+	url = https://github.com/Prashant-Bhapkar/demo
+[submodule "dagger-test-modules"]
+	path = dagger-test-modules
+	url = https://github.com/sipsma/dagger-test-modules
+[submodule "dagger-pyecho"]
+	path = dagger-pyecho
+	url = https://github.com/sneelco/dagger-pyecho
+[submodule "dagger-azure"]
+	path = dagger-azure
+	url = https://github.com/daggerverse/dagger-azure
+[submodule "sonar-pipeline"]
+	path = sonar-pipeline
+	url = https://github.com/fluent-ci-templates/sonar-pipeline
+[submodule "trivy-pipeline"]
+	path = trivy-pipeline
+	url = https://github.com/fluent-ci-templates/trivy-pipeline
+[submodule "snyk-dagger"]
+	path = snyk-dagger
+	url = https://github.com/z4ce/snyk-dagger
+[submodule "daggerverse-1"]
+	path = daggerverse-1
+	url = https://github.com/marcosnils/daggerverse-1
+[submodule "dagger-package-repository"]
+	path = dagger-package-repository
+	url = https://github.com/llorenzinho/dagger-package-repository
+[submodule "dagger-module-java-sdk-update"]
+	path = dagger-module-java-sdk-update
+	url = https://github.com/chrira/dagger-module-java-sdk-update
+[submodule "railway-pipeline"]
+	path = railway-pipeline
+	url = https://github.com/fluent-ci-templates/railway-pipeline
+[submodule "supabase-pipeline"]
+	path = supabase-pipeline
+	url = https://github.com/fluent-ci-templates/supabase-pipeline
+[submodule "gitleaks-pipeline"]
+	path = gitleaks-pipeline
+	url = https://github.com/fluent-ci-templates/gitleaks-pipeline
+[submodule "wheel-builder"]
+	path = wheel-builder
+	url = https://github.com/dlorenc/wheel-builder
+[submodule "grype-pipeline"]
+	path = grype-pipeline
+	url = https://github.com/fluent-ci-templates/grype-pipeline
+[submodule "syft-pipeline"]
+	path = syft-pipeline
+	url = https://github.com/fluent-ci-templates/syft-pipeline
+[submodule "firebase-pipeline"]
+	path = firebase-pipeline
+	url = https://github.com/fluent-ci-templates/firebase-pipeline
+[submodule "bun-pipeline"]
+	path = bun-pipeline
+	url = https://github.com/fluent-ci-templates/bun-pipeline
+[submodule "shuttle-pipeline"]
+	path = shuttle-pipeline
+	url = https://github.com/fluent-ci-templates/shuttle-pipeline
+[submodule "chromatic-pipeline"]
+	path = chromatic-pipeline
+	url = https://github.com/fluent-ci-templates/chromatic-pipeline
+[submodule "wasmer-pipeline"]
+	path = wasmer-pipeline
+	url = https://github.com/fluent-ci-templates/wasmer-pipeline
+[submodule "testgit"]
+	path = testgit
+	url = https://github.com/jpadams/testgit
+[submodule "ld-find-code-refs"]
+	path = ld-find-code-refs
+	url = https://github.com/launchdarkly/ld-find-code-refs
+[submodule "bass"]
+	path = bass
+	url = https://github.com/vito/bass
+[submodule "cullen"]
+	path = cullen
+	url = https://github.com/jpadams/cullen
+[submodule "milan-test"]
+	path = milan-test
+	url = https://github.com/jpadams/milan-test
+[submodule "example-go-build-container"]
+	path = example-go-build-container
+	url = https://github.com/jpadams/example-go-build-container
+[submodule "bar"]
+	path = bar
+	url = https://github.com/jpadams/bar
+[submodule "dagger-aws"]
+	path = dagger-aws
+	url = https://github.com/lukemarsden/dagger-aws
+[submodule "dagger-gcp"]
+	path = dagger-gcp
+	url = https://github.com/lukemarsden/dagger-gcp
+[submodule "dagger-snyk"]
+	path = dagger-snyk
+	url = https://github.com/lukemarsden/dagger-snyk
+[submodule "dagger-grype"]
+	path = dagger-grype
+	url = https://github.com/lukemarsden/dagger-grype
+[submodule "dagger-ghcr-demo"]
+	path = dagger-ghcr-demo
+	url = https://github.com/lukemarsden/dagger-ghcr-demo
+[submodule "dagger-module-ci-cd"]
+	path = dagger-module-ci-cd
+	url = https://github.com/joebui/dagger-module-ci-cd
+[submodule "SpokaneTech_Py"]
+	path = SpokaneTech_Py
+	url = https://github.com/SpokaneTech/SpokaneTech_Py
+[submodule "BMBuildkit-dagger"]
+	path = BMBuildkit-dagger
+	url = https://github.com/BondMachineHQ/BMBuildkit-dagger
+[submodule "core"]
+	path = core
+	url = https://github.com/shykes/core
+[submodule "aluzzardi-daggerverse"]
+	path = aluzzardi-daggerverse
+	url = https://github.com/samalba/aluzzardi-daggerverse
+[submodule "gleam-pipeline"]
+	path = gleam-pipeline
+	url = https://github.com/fluent-ci-templates/gleam-pipeline
+[submodule "daggerverse-tom"]
+	path = daggerverse-tom
+	url = https://github.com/grouville/daggerverse-tom
+[submodule "android-pipeline"]
+	path = android-pipeline
+	url = https://github.com/fluent-ci-templates/android-pipeline
+[submodule "fastlane-pipeline"]
+	path = fastlane-pipeline
+	url = https://github.com/fluent-ci-templates/fastlane-pipeline
+[submodule "demo-dagger-vault"]
+	path = demo-dagger-vault
+	url = https://github.com/nicholasjackson/demo-dagger-vault
+[submodule "drizzlekit-pipeline"]
+	path = drizzlekit-pipeline
+	url = https://github.com/fluent-ci-templates/drizzlekit-pipeline
+[submodule "dotnet-pipeline"]
+	path = dotnet-pipeline
+	url = https://github.com/fluent-ci-templates/dotnet-pipeline
+[submodule "snyk-pipeline"]
+	path = snyk-pipeline
+	url = https://github.com/fluent-ci-templates/snyk-pipeline
+[submodule "spin-pipeline"]
+	path = spin-pipeline
+	url = https://github.com/fluent-ci-templates/spin-pipeline
+[submodule "github-pipeline"]
+	path = github-pipeline
+	url = https://github.com/fluent-ci-templates/github-pipeline
+[submodule "inline-python-mod"]
+	path = inline-python-mod
+	url = https://github.com/samalba/inline-python-mod
+[submodule "semgrep-dagger-module"]
+	path = semgrep-dagger-module
+	url = https://github.com/jpadams/semgrep-dagger-module
+[submodule "runner"]
+	path = runner
+	url = https://github.com/helixml/runner
+[submodule "buf-pipeline"]
+	path = buf-pipeline
+	url = https://github.com/fluent-ci-templates/buf-pipeline
+[submodule "elixir-pipeline"]
+	path = elixir-pipeline
+	url = https://github.com/fluent-ci-templates/elixir-pipeline
+[submodule "atlas-pipeline"]
+	path = atlas-pipeline
+	url = https://github.com/fluent-ci-templates/atlas-pipeline
+[submodule "prisma-pipeline"]
+	path = prisma-pipeline
+	url = https://github.com/fluent-ci-templates/prisma-pipeline
+[submodule "gale"]
+	path = gale
+	url = https://github.com/aweris/gale
+[submodule "testcontainers-java-repro"]
+	path = testcontainers-java-repro
+	url = https://github.com/kpenfound/testcontainers-java-repro
+[submodule "moodle_plugin_ci"]
+	path = moodle_plugin_ci
+	url = https://github.com/ginjiruu/moodle_plugin_ci
+[submodule "hf-gguf-to-ollama"]
+	path = hf-gguf-to-ollama
+	url = https://github.com/adrienbrault/hf-gguf-to-ollama
+[submodule "setup-dagger"]
+	path = setup-dagger
+	url = https://github.com/camptocamp/setup-dagger
+[submodule "timpkg"]
+	path = timpkg
+	url = https://github.com/anthonybrice/timpkg
+[submodule "dagger-test"]
+	path = dagger-test
+	url = https://github.com/bmwinstead/dagger-test
+[submodule "example-voting-app"]
+	path = example-voting-app
+	url = https://github.com/salaboy/example-voting-app
+[submodule "dag-kics"]
+	path = dag-kics
+	url = https://github.com/Mjb141/dag-kics
+[submodule "dagger-php-module"]
+	path = dagger-php-module
+	url = https://github.com/carnage/dagger-php-module
+[submodule "demo-devconf-cz-2024"]
+	path = demo-devconf-cz-2024
+	url = https://github.com/aweris/demo-devconf-cz-2024
+[submodule "excoriate-daggerverse"]
+	path = excoriate-daggerverse
+	url = https://github.com/developer-guy/excoriate-daggerverse
+[submodule "potato"]
+	path = potato
+	url = https://github.com/Digio-Campus/potato
+[submodule "remult-cli"]
+	path = remult-cli
+	url = https://github.com/Yedidyar/remult-cli
+[submodule "greetings-api"]
+	path = greetings-api
+	url = https://github.com/kpenfound/greetings-api
+[submodule "integration-demo"]
+	path = integration-demo
+	url = https://github.com/chainloop-dev/integration-demo
+[submodule "terraform-module"]
+	path = terraform-module
+	url = https://github.com/techdecline/terraform-module
+[submodule "dagger-module"]
+	path = dagger-module
+	url = https://github.com/okteto/dagger-module
+[submodule "daggerverse-jumppad-labs"]
+	path = daggerverse-jumppad-labs
+	url = https://github.com/cullenmcdermott/daggerverse-jumppad-labs
+[submodule "pocketci"]
+	path = pocketci
+	url = https://github.com/franela/pocketci
+[submodule "DebtRepayment"]
+	path = DebtRepayment
+	url = https://github.com/EmmS21/DebtRepayment
+[submodule "interLink"]
+	path = interLink
+	url = https://github.com/interTwin-eu/interLink
